@@ -1,0 +1,7 @@
+Initializing gui preferences from file  /homes/donavan2/.synopsys_icc_prefs.tcl
+icc_shell> man constraint
+Error: No manual entry for 'constraint' (CMD-025)
+icc_shell> q
+Error: ambiguous command 'q' matched 13 commands:
+        (query_cell_instances, query_cell_mapped, query_map_power_switch ...) (CMD-006)
+icc_shell> 
